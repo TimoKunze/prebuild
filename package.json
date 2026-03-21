@@ -20,23 +20,23 @@
     "node-api"
   ],
   "dependencies": {
-    "cmake-js": "^7.3.1",
+    "cmake-js": "^8.0.0",
     "detect-libc": "^2.1.2",
     "each-series-async": "^1.0.1",
     "execspawn": "^1.0.1",
     "ghreleases": "^3.0.2",
     "github-from-package": "0.0.0",
-    "glob": "^11.0.3",
+    "glob": "^13.0.6",
     "minimist": "^1.2.8",
     "napi-build-utils": "^2.0.0",
-    "node-abi": "^4.15.0",
-    "node-gyp": "^11.5.0",
+    "node-abi": "^4.28.0",
+    "node-gyp": "^12.2.0",
     "noop-logger": "^0.1.1",
     "npm-which": "^3.0.1",
     "npmlog": "^7.0.1",
     "rc": "^1.2.8",
     "run-waterfall": "^1.1.7",
-    "tar-stream": "^3.1.7"
+    "tar-stream": "^3.1.8"
   },
   "devDependencies": {
     "a-native-module": "^1.0.0",
