@@ -1,6 +1,6 @@
 {
   "name": "@audc/prebuild",
-  "version": "14.2.0",
+  "version": "14.2.1",
   "description": "A command line tool for easily making prebuilt binaries for multiple versions of node or electron on a specific platform",
   "scripts": {
     "test": "tape test && npm run lint",
@@ -29,19 +29,19 @@
     "glob": "^13.0.6",
     "minimist": "^1.2.8",
     "napi-build-utils": "^2.0.0",
-    "node-abi": "^4.31.0",
-    "node-gyp": "^13.0.0",
+    "node-abi": "^4.35.0",
+    "node-gyp": "^13.0.2",
     "noop-logger": "^0.1.1",
     "npm-which": "^3.0.1",
     "npmlog": "^7.0.1",
     "rc": "^1.2.8",
     "run-waterfall": "^1.1.7",
-    "tar-stream": "^3.2.0"
+    "tar-stream": "^3.2.1"
   },
   "devDependencies": {
     "a-native-module": "^1.0.0",
     "standard": "^17.1.2",
-    "tape": "^5.10.1"
+    "tape": "^5.10.2"
   },
   "bin": {
     "prebuild": "./bin.js"
