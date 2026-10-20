@@ -29,7 +29,7 @@
     "glob": "^13.0.6",
     "minimist": "^1.2.8",
     "napi-build-utils": "^2.0.0",
-    "node-abi": "^4.37.0",
+    "node-abi": "^4.38.0",
     "node-gyp": "^13.1.0",
     "noop-logger": "^0.1.1",
     "npm-which": "^3.0.1",
@@ -41,7 +41,7 @@
   "devDependencies": {
     "a-native-module": "^1.0.0",
     "standard": "^17.1.2",
-    "tape": "^5.10.2"
+    "tape": "^5.10.3"
   },
   "bin": {
     "prebuild": "./bin.js"
