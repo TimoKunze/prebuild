@@ -26,7 +26,7 @@
     "execspawn": "^1.0.1",
     "ghreleases": "^3.0.2",
     "github-from-package": "0.0.0",
-    "glob": "^14.0.3",
+    "glob": "^14.0.6",
     "minimist": "^1.2.8",
     "napi-build-utils": "^2.0.0",
     "node-abi": "^4.40.0",
